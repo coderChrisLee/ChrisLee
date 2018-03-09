@@ -1,5 +1,5 @@
 ### Welcome.
-> Hello, I'm Chris Lee, an iOS coder at present, welcome to [Coder Chris Lee's GitHub Page](https://http://coderchrislee.github.io/).
+> Hello, I'm Chris Lee, an iOS coder at present, welcome to [Coder Chris Lee's GitHub Page](https://coderchrislee.github.io/).
 
 Hope this is a wonderful place for learning and sharing.
 
